@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RabbitMQ.Consumer/RabbitMQ.Consumer.csproj" Id="986b8ebf-357e-4dc6-917b-01809f212cdd" />
+  <Project Path="RabbitMQ/RabbitMQ.producer.csproj" />
+</Solution>
