@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RabbitMq.FanOutConsumer": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

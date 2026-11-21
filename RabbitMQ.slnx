@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="RabbitMQ.Consumer/RabbitMQ.Consumer.csproj" Id="986b8ebf-357e-4dc6-917b-01809f212cdd" />
+  <Project Path="RabbitMq.FanOutConsumer/RabbitMq.FanOutConsumer.csproj" Id="7d75b875-4d86-4b7d-9736-f4ccca7039ec" />
+  <Project Path="RabbitMQ.FanoutProducer/RabbitMQ.FanoutProducer.csproj" Id="54028a8d-751e-4637-9573-c96c612ce664" />
   <Project Path="RabbitMQ/RabbitMQ.producer.csproj" />
 </Solution>
