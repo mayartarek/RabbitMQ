@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Rabbit.HeaderConsumer": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

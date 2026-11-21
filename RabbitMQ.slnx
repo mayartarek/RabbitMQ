@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="Rabbit.HeaderConsumer/Rabbit.HeaderConsumer.csproj" Id="e4333a74-f4c5-44f3-98e5-3040d3ad7ccf" />
+  <Project Path="Rabbit.HeaderProducer/Rabbit.HeaderProducer.csproj" Id="edd0b717-bfe2-4092-9996-779603fc149c" />
   <Project Path="RabbitMQ.Consumer/RabbitMQ.Consumer.csproj" Id="986b8ebf-357e-4dc6-917b-01809f212cdd" />
   <Project Path="RabbitMq.FanOutConsumer/RabbitMq.FanOutConsumer.csproj" Id="7d75b875-4d86-4b7d-9736-f4ccca7039ec" />
   <Project Path="RabbitMQ.FanoutProducer/RabbitMQ.FanoutProducer.csproj" Id="54028a8d-751e-4637-9573-c96c612ce664" />
